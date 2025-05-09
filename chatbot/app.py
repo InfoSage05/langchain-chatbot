@@ -1,6 +1,6 @@
 LANGSMITH_TRACING=True
 LANGSMITH_ENDPOINT="https://api.smith.langchain.com"
-LANGSMITH_API_KEY="<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>"
+LANGSMITH_API_KEY="Anything"
 LANGSMITH_PROJECT="Chatbot_Llama"
 
 
